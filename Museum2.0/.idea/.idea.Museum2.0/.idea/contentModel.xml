@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Unity\Museum2.0" t="IncludeRecursive">
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="Scripts" t="Include">
+          <e p="ActivateStandZone.cs" t="Include" />
+          <e p="CameraControl.cs" t="Include" />
+          <e p="CameraMove.cs" t="Include" />
+          <e p="InfoBoard.cs" t="Include" />
+          <e p="InteractableObj.cs" t="Include" />
+          <e p="Interface.cs" t="Include" />
+          <e p="Inventory.cs" t="Include" />
+          <e p="InvSlot.cs" t="Include" />
+          <e p="KeyE.cs" t="Include" />
+          <e p="MenuInterface.cs" t="Include" />
+          <e p="Mouse.cs" t="Include" />
+          <e p="Player.cs" t="Include" />
+          <e p="SelfDesroy.cs" t="Include" />
+          <e p="SlotMarker.cs" t="Include" />
+        </e>
+      </e>
+      <e p="Museum2.0.sln" t="IncludeFlat" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Packages" t="ExcludeRecursive" />
+      <e p="Temp\bin" t="ExcludeRecursive" />
+    </e>
+    <e p="C:\Users\User\.Rider2019.1\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\User\.Rider2019.1\system\resharper-host\local\Transient\ReSharperHost\v191\SolutionCaches\_Museum2.0.-755681546.00" t="ExcludeRecursive" />
+  </component>
+</project>
