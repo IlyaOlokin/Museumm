@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 1b0ddc06c8a93e944b2ce8bb8da5c60d
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - particles: {fileID: 2724513932743790507, guid: 18b7b8245babe724c9bd602c25185a6d,
+      type: 3}
+  - SlotMarker: {fileID: 6677480481388539158, guid: c3ce77d7fab6dbd4c9cd7d345c4adba4,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
